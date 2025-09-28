@@ -12,7 +12,7 @@ const blogPosts = [
     date: "15 сентября 2024",
     category: "Дизайн",
     readTime: "5 мин",
-    image: "/img/e52a2d33-f5ec-49e5-af2e-2b8a386487a8.jpg"
+    image: "/img/a12b239c-0e13-47fa-95e2-1c373bfb64bf.jpg"
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const blogPosts = [
     date: "12 сентября 2024", 
     category: "Разработка",
     readTime: "8 мин",
-    image: "/img/e52a2d33-f5ec-49e5-af2e-2b8a386487a8.jpg"
+    image: "/img/f8a6285d-879e-4d7d-bac0-0e8cda2212db.jpg"
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ const blogPosts = [
     date: "10 сентября 2024",
     category: "Маркетинг", 
     readTime: "6 мин",
-    image: "/img/e52a2d33-f5ec-49e5-af2e-2b8a386487a8.jpg"
+    image: "/img/404e57d7-00be-4369-b827-5cd96faee9eb.jpg"
   }
 ]
 
